@@ -11,6 +11,8 @@ An implementation of the state-of-the-art FL algorithms with PyTorch.
 
 ### [SCAFFOLD: Stochastic Controlled Averaging for Federated Learning](http://proceedings.mlr.press/v119/karimireddy20a.html)
 
+### [On the Convergence of FedAvg on Non-IID Data](https://arxiv.org/pdf/1907.02189.pdf)
+
 ## 2017
 
 ### [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://proceedings.mlr.press/v54/mcmahan17a?ref=https://githubhelp.com)
